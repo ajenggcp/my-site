@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.profile-desc {
+  color: #40514e;
+  width: 20%;
+  margin: auto auto 0;
+  font-weight: bolder;
+}
+
+.profile{
+  margin-bottom: 40px;
+}
+hr {
+  border-style: dotted none none none;
+  border-top-width: thick;
+  border-color: #eaf6f6;
+  height: 3px;
+  width: 5%;
+}
+
+h1 {
+  font-family: "Crimson Text", serif;
+  margin: 50px auto 0 auto;
+  color: #66bfbf;
+  font-size: 50px;
+}
+h2 {
+  margin-top: 0;
+  font-family: "Dosis", sans-serif;
+  color: #66bfbf;
+}
+
+h3 {
+  font-family: "Caveat", cursive;
+  font-size: 20px;
+  color: #11999E;
+  
+}
+
+a {
+  color: #11999e;
+  text-decoration: none;
+  font-size: 15px;
+}
+
+#develop {
+  font-weight: normal;
+  line-height: 2;
+  font-size: 20px;
+}
+
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding-top: 35px;
+}
+
+div {
+  padding: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: auto;
+  text-align: left;
+}
+
+.program-img {
+  float: left;
+  margin-right: 30px;
+}
+
+.photo-img {
+  float: right;
+  margin-left: 30px;
+}
+
+.write-img {
+  float: left;
+  margin-right: 30px;
+}
+
+#skill-title {
+  margin-top: 30px;
+  color: #66bfbf;
+}
+
+.footer-link{
+  padding: 20px;
+}
+
+.btn {
+  background: #97bde9;
+  background-image: -webkit-linear-gradient(top, #97bde9, #97bde9);
+  background-image: -moz-linear-gradient(top, #97bde9, #97bde9);
+  background-image: -ms-linear-gradient(top, #97bde9, #97bde9);
+  background-image: -o-linear-gradient(top, #97bde9, #97bde9);
+  background-image: linear-gradient(to bottom, #97bde9, #97bde9);
+  -webkit-border-image: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  height: 0px;
+  line-height: 0px;
+  color: #ffffff;
+  font-family: serif;
+  width: 90px;
+  font-size: 15px;
+  font-weight: 100;
+  padding: 15px;
+  margin-top: 20px;;
+  box-shadow: 2px 3px 10px 0px #a2bbdf;
+  -webkit-box-shadow: 2px 3px 10px 0px #a2bbdf;
+  -moz-box-shadow: 2px 3px 10px 0px #a2bbdf;
+  text-shadow: 6px -1px 26px #000000;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  text-align: center;
+}
+
+#copyright{
+  font-size: 12px;
+  color: #EAF6F6;
+}
+
